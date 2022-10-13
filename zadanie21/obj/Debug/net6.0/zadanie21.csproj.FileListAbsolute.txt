@@ -1,0 +1,15 @@
+C:\Users\yakub\OneDrive\Рабочий стол\seminar3\zadanie21\obj\Debug\net6.0\zadanie21.csproj.AssemblyReference.cache
+C:\Users\yakub\OneDrive\Рабочий стол\seminar3\zadanie21\obj\Debug\net6.0\zadanie21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakub\OneDrive\Рабочий стол\seminar3\zadanie21\obj\Debug\net6.0\zadanie21.AssemblyInfoInputs.cache
+C:\Users\yakub\OneDrive\Рабочий стол\seminar3\zadanie21\obj\Debug\net6.0\zadanie21.AssemblyInfo.cs
+C:\Users\yakub\OneDrive\Рабочий стол\seminar3\zadanie21\obj\Debug\net6.0\zadanie21.csproj.CoreCompileInputs.cache
+C:\Users\yakub\OneDrive\Рабочий стол\seminar3\zadanie21\bin\Debug\net6.0\zadanie21.exe
+C:\Users\yakub\OneDrive\Рабочий стол\seminar3\zadanie21\bin\Debug\net6.0\zadanie21.deps.json
+C:\Users\yakub\OneDrive\Рабочий стол\seminar3\zadanie21\bin\Debug\net6.0\zadanie21.runtimeconfig.json
+C:\Users\yakub\OneDrive\Рабочий стол\seminar3\zadanie21\bin\Debug\net6.0\zadanie21.dll
+C:\Users\yakub\OneDrive\Рабочий стол\seminar3\zadanie21\bin\Debug\net6.0\zadanie21.pdb
+C:\Users\yakub\OneDrive\Рабочий стол\seminar3\zadanie21\obj\Debug\net6.0\zadanie21.dll
+C:\Users\yakub\OneDrive\Рабочий стол\seminar3\zadanie21\obj\Debug\net6.0\refint\zadanie21.dll
+C:\Users\yakub\OneDrive\Рабочий стол\seminar3\zadanie21\obj\Debug\net6.0\zadanie21.pdb
+C:\Users\yakub\OneDrive\Рабочий стол\seminar3\zadanie21\obj\Debug\net6.0\zadanie21.genruntimeconfig.cache
+C:\Users\yakub\OneDrive\Рабочий стол\seminar3\zadanie21\obj\Debug\net6.0\ref\zadanie21.dll
